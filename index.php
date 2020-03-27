@@ -40,52 +40,8 @@
 
                 <p><?php pll_e('offer_description') ?></p>
 
-                <table class="default-table">
-                    <thead>
-                        <tr>
-                            <th><?php pll_e('offer_table_name') ?></th>
-                            <th><?php pll_e('offer_table_location') ?></th>
-                            <th><?php pll_e('offer_table_offer') ?></th>
-                            <th><?php pll_e('offer_table_capacity') ?></th>
-                            <th><?php pll_e('offer_table_contact') ?></th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {% for hub in site.data.hubs[page.lang] %}
-                        <tr>
-                            <td>
-                                {% if hub.link And hub.link != '' %}
-                                <a href="{{hub.link}}" target="_blank">{{hub.name}}</a>
-                                {% else %}
-                                {{hub.name}}
-                                {% endif %}
-                            </td>
-                            <td>
-                                {{hub.city}},
-                                {% if hub.state And hub.state != '' %}
-                                {{hub.state}},
-                                {% endif %}
-                                {{hub.country}}
-                            </td>
-                            <td>
-                                <ul>
-                                    {% for offer in hub.we_offer %}
-                                    <li>{{offer}}</li>
-                                    {% endfor %}
-                                </ul>
-                            </td>
-                            <td>
-                                <ul>
-                                    {% for capacity in hub.capacity %}
-                                    <li>{{capacity}}</li>
-                                    {% endfor %}
-                                </ul>
-                            </td>
-                            <td>{{hub.contact}}</td>
-                        </tr>
-                        {% endfor %}
-                    </tbody>
-                </table>
+                <?php require 'includes/hub-list.php' ?>
+
                 <p>
                     <?php pll_e('offer_disclaimer') ?>
                 </p>
