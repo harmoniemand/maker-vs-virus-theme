@@ -12,8 +12,8 @@
 function register_my_menus() {
   register_nav_menus(
     array(
-      'header-menu' => __( 'Header Menu' ),
-      'extra-menu' => __( 'Extra Menu' )
+      'header-menu' => 'Header Menu',
+      'extra-menu' => 'Extra Menu'
      )
    );
  }

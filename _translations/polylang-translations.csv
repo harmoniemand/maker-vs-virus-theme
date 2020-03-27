@@ -1,0 +1,26 @@
+String,"Source (plugin or theme)","English (en_US)","Deutsch (de_DE)"
+subtitle,maker-vs-virus-theme,"We're bringing together people and organisations     who need currently hard-to-find protective equipment or spare parts     with makers and makerspaces who can possibly produce them.","Wir bringen Menschen/Organisationen zusammen, die dringend Schutzausrüstung oder Ersatzteile brauchen,     und Maker und Makerspaces, die diese produzieren können."
+cta_need,maker-vs-virus-theme,"I need PPE",cta_need
+cta_maker,maker-vs-virus-theme,"I can make & help",cta_maker
+hint_non_profit,maker-vs-virus-theme,"<strong>Please note: </strong> We only list initiatives that offer     their (self) produced items for free or at cost price.",hint_non_profit
+offer_header,maker-vs-virus-theme,"For people and organisations in need",offer_header
+offer_description,maker-vs-virus-theme,"A hub is a regional point of contact that coordinates makers and can provide means of strorage and distribution.     Find a hub near you in the list below and contact them with your needs. If there's no hub in your area, contact us directly at <a href=""mailto:anfrage@makervsvirus.org"">anfrage@makervsvirus.org</a>.",offer_description
+offer_table_name,maker-vs-virus-theme,Name,offer_table_name
+offer_table_location,maker-vs-virus-theme,Location,offer_table_location
+offer_table_offer,maker-vs-virus-theme,"We offer",offer_table_offer
+offer_table_capacity,maker-vs-virus-theme,Capacity,offer_table_capacity
+offer_table_contact,maker-vs-virus-theme,Contact,offer_table_contact
+offer_disclaimer,maker-vs-virus-theme,"Note that we refuse liability for damages to things or persons arising     from the use of items created by third parties.",offer_disclaimer
+support_header,maker-vs-virus-theme,"For people and organisations who want to support this project",support_header
+support_registration,maker-vs-virus-theme,"As a <b>local maker</b>, you support the regional hub by 3D printing, laser cutting, sewing or else! Let us know what you can do, and then send your parts to the hub. <br>     Use <a href=""https://docs.google.com/forms/d/e/1FAIpQLSeIqflF3iAowqptV4zxMkg26spX41nKoNum_SSXNGwNyxVz0A/viewform"" _blank"">this form</a> to register.",support_registration
+offer_registration,maker-vs-virus-theme,"We also need <b>regional hubs</b> that can provide coordination, storage and a point of contact for distribution. Register as a Hub <a href=""https://docs.google.com/forms/d/e/1FAIpQLSeXCnK1oEQh5l_5kfUDHrEDJV2M7BkVJUylFiMwsxF_K2yHLQ/viewform""_blank"">here</a>.",offer_registration
+support_description,maker-vs-virus-theme,"<p>We're looking for people who:</p>     <ul>       <li>make 3D prints</li>       <li>have a laser cutter available (or want to cut foil manually)</li>       <li>want to help with logistics</li>       <li>want to help with the organization</li>     </ul>     <p>       The goal is for people to come together in a self-organized way to form (local or international) production       hubs, which we can list on this website. For this purpose we offer the following Slack workspace to find       fellow Makers or existing hubs in need of help. For our communication we use the Slack workspace.       <br>       <strong>Please note: </strong> We only list initiatives that offer their (self) produced items for free or at cost price.     </p>","<p>Wir suchen nach Leuten, die:</p>     <ul>       <li>3D Drucke fertigen</li>       <li>einen Lasercutter zur Verfügung haben (oder Schutzfolie manuell schneiden)</li>       <li>bei der Logistik helfen</li>       <li>bei der Planung / Organisation helfen</li>     </ul>     <p>       Ziel ist es, dass sich Menschen auf selbst organisiertem Weg verbinden um Produktionsmöglichkeiten (lokal oder international) zu schaffen.       Diese listen wir auf dieser Website. Dafür bieten wir den folgenden Slack Workspace um gleichgesinnte Maker       oder bestehende Zentren mit Unterstüzungsbedarf zu verbinden. Für die Kommunikation benutzen wir den Slack-Workspace.       <br>       <strong>Bitte beachte: </strong> Wir führen nur Iniativen auf, die ihre (selbst) produzierten Artikel kostenlos oder zum Selbstkostenpreis anbieten.     </p>"
+support_join_slack,maker-vs-virus-theme,"Join Slack",support_join_slack
+support_table_name,maker-vs-virus-theme,Name,support_table_name
+support_table_location,maker-vs-virus-theme,Location,support_table_location
+support_table_capacity,maker-vs-virus-theme,Capacity,support_table_capacity
+support_table_contact,maker-vs-virus-theme,Contact,support_table_contact
+equipment_header,maker-vs-virus-theme,"List of protective equipment",equipment_header
+equipment_send_links,maker-vs-virus-theme,"The list is not complete. Please send us the missing links in our Slack workspace above.",equipment_send_links
+organizations_header,maker-vs-virus-theme,"List of similar organisations",organizations_header
+organizations_send_links,maker-vs-virus-theme,"The list is not complete. Please send us the missing links in our Slack workspace above.",organizations_send_links

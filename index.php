@@ -15,16 +15,16 @@
 		oder Ersatzteile brauchen, mit Makern und Makerspaces zusammenbringen, die diese eventuell
 		herstellen können. Dahinter steckt ein kleines deutsch- und englischsprechendes
 		Organistations-Team. -->
-        <p class="subtext editable">{{site.data.lang[page.lang].subtitle}}</p>
+        <p class="subtext editable"><?php pll_e('subtitle') ?></p>
 
         <div class="cta">
-            <span class="button alt"><a href="#need">{{site.data.lang[page.lang].cta_need}}</a></span>
-            <span class="button alt"><a href="#maker">{{site.data.lang[page.lang].cta_maker}}</a></span>
+            <span class="button alt"><a href="#need"><?php pll_e('cta_need') ?></a></span>
+            <span class="button alt"><a href="#maker"><?php pll_e('cta_maker') ?></a></span>
         </div>
         <!-- Wir listen ausschließlich Initiativen, die die (selbst) produzierten Dinge kostenlos oder
 		zum Selbstkostenpreis anbieten.-->
         <p class="subtext editable">
-            {{site.data.lang[page.lang].hint_non_profit}}
+            <?php pll_e('hint_non_profit') ?>
         </p>
         <br>
         <br>
@@ -36,18 +36,18 @@
     <section id="need">
         <div class="container flex">
             <div class="text editable">
-                <h2>{{site.data.lang[page.lang].offer_header}}</h2>
+                <h2><?php pll_e('offer_header') ?></h2>
 
-                <p>{{site.data.lang[page.lang].offer_description}}</p>
+                <p><?php pll_e('offer_description') ?></p>
 
                 <table class="default-table">
                     <thead>
                         <tr>
-                            <th>{{site.data.lang[page.lang].offer_table_name}}</th>
-                            <th>{{site.data.lang[page.lang].offer_table_location}}</th>
-                            <th>{{site.data.lang[page.lang].offer_table_offer}}</th>
-                            <th>{{site.data.lang[page.lang].offer_table_capacity}}</th>
-                            <th>{{site.data.lang[page.lang].offer_table_contact}}</th>
+                            <th><?php pll_e('offer_table_name') ?></th>
+                            <th><?php pll_e('offer_table_location') ?></th>
+                            <th><?php pll_e('offer_table_offer') ?></th>
+                            <th><?php pll_e('offer_table_capacity') ?></th>
+                            <th><?php pll_e('offer_table_contact') ?></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -87,7 +87,7 @@
                     </tbody>
                 </table>
                 <p>
-                    {{site.data.lang[page.lang].offer_disclaimer}}
+                    <?php pll_e('offer_disclaimer') ?>
                 </p>
             </div>
         </div>
@@ -97,13 +97,13 @@
         <div class="container flex">
             <div class="text editable">
                 <!-- Ich bin ein Maker / wir sind ein Makerspace und wollen helfen -->
-                <h2>{{site.data.lang[page.lang].support_header}}</h2>
+                <h2><?php pll_e('support_header') ?></h2>
 
                 <iframe src="https://www.google.com/maps/d/embed?mid=1Sc7ZRpHDt-98-SCrfmRuFZNbLtF3I-uf" width="100%" height="480"></iframe>
 
-                <p>{{site.data.lang[page.lang].support_registration}}</p>
+                <p><?php pll_e('support_registration') ?></p>
 
-                <p>{{site.data.lang[page.lang].offer_registration}}</p>
+                <p><?php pll_e('offer_registration') ?></p>
 
                 <!--
 				Wir suchen Leute, die:
@@ -118,12 +118,12 @@
 					 BUTTON
 					Wenn ihr euch als Hub eintragen wollt, schreibt bitte im Slack channels namens "Register Hub".
 					-->
-                {{site.data.lang[page.lang].support_description}}
+                <?php pll_e('support_description') ?>
 
                 <br>
                 <div class="button">
                     <a style="background: {{ plan.color }}" href="{{site.slack_invite_link}}" target="_blank">
-                        {{site.data.lang[page.lang].support_join_slack}}</a>
+                        <?php pll_e('support_join_slack') ?></a>
                 </div>
                 <br>
                 <br>
@@ -133,10 +133,10 @@
 				<table class="default-table">
 					<thead>
 						<tr>
-							<th>{{site.data.lang[page.lang].support_table_name}}</th>
-							<th>{{site.data.lang[page.lang].support_table_location}}</th>
-							<th>{{site.data.lang[page.lang].support_table_capacity}}</th>
-							<th>{{site.data.lang[page.lang].support_table_contact}}</th>
+							<th><?php pll_e('support_table_name') ?></th>
+							<th><?php pll_e('support_table_location') ?></th>
+							<th><?php pll_e('support_table_capacity') ?></th>
+							<th><?php pll_e('support_table_contact') ?></th>
 						</tr>
 					</thead>
 					<tbody>
@@ -176,14 +176,14 @@
     <section>
         <div class="container flex">
             <div class="text editable">
-                <h2>{{site.data.lang[page.lang].equipment_header}}</h2>
+                <h2><?php pll_e('equipment_header') ?></h2>
                 <ul>
                     {% for equipment in site.data.equipments %}
                     <li><a href="{{equipment.link}}" target="_blank">{{equipment.name}}</a></li>
                     {% endfor %}
                 </ul>
                 <p>
-                    {{site.data.lang[page.lang].equipment_send_links}}
+                    <?php pll_e('equipment_send_links') ?>
                 </p>
             </div>
         </div>
@@ -192,14 +192,14 @@
     <section>
         <div class="container flex">
             <div class="text editable">
-                <h2>{{site.data.lang[page.lang].organizations_header}}</h2>
+                <h2><?php pll_e('organizations_header') ?></h2>
                 <ul>
                     {% for organisation in site.data.organisations %}
                     <li><a href="{{organisation.link}}" target="_blank">{{organisation.name}}</a></li>
                     {% endfor %}
                 </ul>
                 <p>
-                    {{site.data.lang[page.lang].organizations_send_links}}
+                    <?php pll_e('organizations_send_links') ?>
                 </p>
             </div>
         </div>

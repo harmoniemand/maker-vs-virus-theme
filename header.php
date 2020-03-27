@@ -5,9 +5,6 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		{% seo %}
-		{% feed_meta %}
-
         <link href="<?php echo get_template_directory_uri() ?>/style.css" rel="stylesheet">
 
 
@@ -21,13 +18,15 @@
 		<meta name="theme-color" content="#ffffff">
 		<meta name="google-site-verification" content="google-site-verification=xS8QJX0WlXVwL2mfyQGM-fJE5rYrc5EqonRzcwEql9k">
 
-		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+
+		<?php if (!get_option( 'is_development' )): ?>
 			<script>
 				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-				ga('create', '{{ site.google_analytics_key }}', 'auto');
+				ga('create', 'UA-161636011-1', 'auto');
 				ga('send', 'pageview');
 			</script>
 			<script async src='https://www.google-analytics.com/analytics.js'></script>
-		{% endif %}
+
+		<?php endif; ?>
 	</head>
 	<body>
