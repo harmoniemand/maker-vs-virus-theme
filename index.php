@@ -53,27 +53,33 @@
         <div class="container flex">
             <div class="text editable">
                 <!-- Ich bin ein Maker / wir sind ein Makerspace und wollen helfen -->
+
                 <h2><?php pll_e('support_header') ?></h2>
 
                 <iframe src="https://www.google.com/maps/d/embed?mid=1Sc7ZRpHDt-98-SCrfmRuFZNbLtF3I-uf" width="100%" height="480"></iframe>
 
+            </div>
+        </div>
+
+        <div class="container flex" style="margin-top: 1rem;">
+            <div class="text editable">
+
+                <h2><?php pll_e('maker_registration_headline') ?></h2>
+
                 <p><?php pll_e('support_registration') ?></p>
+            </div>
+        </div>
 
+        <div class="container flex">
+            <div class="text editable">
+                <h2><?php pll_e('hub_registration_headline') ?></h2>
                 <p><?php pll_e('offer_registration') ?></p>
+                <br />
+                <div class="button">
+                    <a href="/hub-registration"><?php pll_e('register_as_hub') ?></a>
+                </div>
 
-                <!--
-				Wir suchen Leute, die:
-					- 3D-Drucke machen
-					- einen Laser-Cutter zur Verfügung haben
-					- bei der Logistik helfen wollen
-					- bei der Organisation helfen wollen
 
-					Das Ziel ist, dass sich Menschen selbstorganisiert zu lokal produzierenden Hubs zusammenfinden, die wir auf
-					dieser Website auflisten können. Dafür bieten wir den folgenden Slack workspace an, um Mitstreiter zu finden
-					oder existierende hilfsbedürftige Hubs zu unterstützen:
-					 BUTTON
-					Wenn ihr euch als Hub eintragen wollt, schreibt bitte im Slack channels namens "Register Hub".
-					-->
                 <?php pll_e('support_description') ?>
 
                 <br>

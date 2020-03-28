@@ -10,7 +10,7 @@ $posts = get_posts(array(
 ?>
 
 
-<table class="default-table">
+<table class="default-table" style="width:100%;">
     <thead>
         <tr>
             <th><?php pll_e('offer_table_name') ?></th>
