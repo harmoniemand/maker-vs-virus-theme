@@ -1,10 +1,8 @@
-<header>
-    <nav id="top-nav" class="bg-p shadow p-4 navbar navbar-expand-lg text-white navbar-dark text-lg">
-        <a class="navbar-brand" href="#">
+<header class="m-0 p-0">
+    <nav id="top-nav" class="bg-p shadow navbar navbar-expand-lg text-white navbar-dark text-lg">
+        <a class="navbar-brand" href="/">
             <img src="<?php echo get_template_directory_uri() ?>/images/logo.svg" width="95" height="33" />
         </a>
-
-
 
         <div class="align-self-center ml-auto">
             <ul class="navbar-nav">
