@@ -1,19 +1,22 @@
 String,"Source (plugin or theme)","English (en_US)","Deutsch (de_DE)"
+offer_table_name,maker-vs-virus-theme,Name,offer_table_name
+offer_table_location,maker-vs-virus-theme,Location,offer_table_location
+offer_table_offer,maker-vs-virus-theme,"We offer",offer_table_offer
+offer_table_capacity,maker-vs-virus-theme,Capacity,offer_table_capacity
+offer_table_contact,maker-vs-virus-theme,Contact,offer_table_contact
 subtitle,maker-vs-virus-theme,"We're bringing together people and organisations     who need currently hard-to-find protective equipment or spare parts     with makers and makerspaces who can possibly produce them.","Wir bringen Menschen/Organisationen zusammen, die dringend Schutzausrüstung oder Ersatzteile brauchen,     und Maker und Makerspaces, die diese produzieren können."
 cta_need,maker-vs-virus-theme,"I need PPE",cta_need
 cta_maker,maker-vs-virus-theme,"I can make & help",cta_maker
 hint_non_profit,maker-vs-virus-theme,"<strong>Please note: </strong> We only list initiatives that offer     their (self) produced items for free or at cost price.",hint_non_profit
 offer_header,maker-vs-virus-theme,"For people and organisations in need",offer_header
 offer_description,maker-vs-virus-theme,"A hub is a regional point of contact that coordinates makers and can provide means of strorage and distribution.     Find a hub near you in the list below and contact them with your needs. If there's no hub in your area, contact us directly at <a href=""mailto:anfrage@makervsvirus.org"">anfrage@makervsvirus.org</a>.",offer_description
-offer_table_name,maker-vs-virus-theme,Name,offer_table_name
-offer_table_location,maker-vs-virus-theme,Location,offer_table_location
-offer_table_offer,maker-vs-virus-theme,"We offer",offer_table_offer
-offer_table_capacity,maker-vs-virus-theme,Capacity,offer_table_capacity
-offer_table_contact,maker-vs-virus-theme,Contact,offer_table_contact
 offer_disclaimer,maker-vs-virus-theme,"Note that we refuse liability for damages to things or persons arising     from the use of items created by third parties.",offer_disclaimer
 support_header,maker-vs-virus-theme,"For people and organisations who want to support this project",support_header
+maker_registration_headline,maker-vs-virus-theme,"help as a maker","Als Maker*in helfen"
 support_registration,maker-vs-virus-theme,"As a <b>local maker</b>, you support the regional hub by 3D printing, laser cutting, sewing or else! Let us know what you can do, and then send your parts to the hub. <br>     Use <a href=""https://docs.google.com/forms/d/e/1FAIpQLSeIqflF3iAowqptV4zxMkg26spX41nKoNum_SSXNGwNyxVz0A/viewform"" _blank"">this form</a> to register.",support_registration
+hub_registration_headline,maker-vs-virus-theme,"help as a hub","Als Hub helfen"
 offer_registration,maker-vs-virus-theme,"We also need <b>regional hubs</b> that can provide coordination, storage and a point of contact for distribution. Register as a Hub <a href=""https://docs.google.com/forms/d/e/1FAIpQLSeXCnK1oEQh5l_5kfUDHrEDJV2M7BkVJUylFiMwsxF_K2yHLQ/viewform""_blank"">here</a>.",offer_registration
+register_as_hub,maker-vs-virus-theme,"register as a hub","Hub registrieren"
 support_description,maker-vs-virus-theme,"<p>We're looking for people who:</p>     <ul>       <li>make 3D prints</li>       <li>have a laser cutter available (or want to cut foil manually)</li>       <li>want to help with logistics</li>       <li>want to help with the organization</li>     </ul>     <p>       The goal is for people to come together in a self-organized way to form (local or international) production       hubs, which we can list on this website. For this purpose we offer the following Slack workspace to find       fellow Makers or existing hubs in need of help. For our communication we use the Slack workspace.       <br>       <strong>Please note: </strong> We only list initiatives that offer their (self) produced items for free or at cost price.     </p>","<p>Wir suchen nach Leuten, die:</p>     <ul>       <li>3D Drucke fertigen</li>       <li>einen Lasercutter zur Verfügung haben (oder Schutzfolie manuell schneiden)</li>       <li>bei der Logistik helfen</li>       <li>bei der Planung / Organisation helfen</li>     </ul>     <p>       Ziel ist es, dass sich Menschen auf selbst organisiertem Weg verbinden um Produktionsmöglichkeiten (lokal oder international) zu schaffen.       Diese listen wir auf dieser Website. Dafür bieten wir den folgenden Slack Workspace um gleichgesinnte Maker       oder bestehende Zentren mit Unterstüzungsbedarf zu verbinden. Für die Kommunikation benutzen wir den Slack-Workspace.       <br>       <strong>Bitte beachte: </strong> Wir führen nur Iniativen auf, die ihre (selbst) produzierten Artikel kostenlos oder zum Selbstkostenpreis anbieten.     </p>"
 support_join_slack,maker-vs-virus-theme,"Join Slack",support_join_slack
 support_table_name,maker-vs-virus-theme,Name,support_table_name
@@ -24,3 +27,399 @@ equipment_header,maker-vs-virus-theme,"List of protective equipment",equipment_h
 equipment_send_links,maker-vs-virus-theme,"The list is not complete. Please send us the missing links in our Slack workspace above.",equipment_send_links
 organizations_header,maker-vs-virus-theme,"List of similar organisations",organizations_header
 organizations_send_links,maker-vs-virus-theme,"The list is not complete. Please send us the missing links in our Slack workspace above.",organizations_send_links
+hub_registration_success_message_header,maker-vs-virus-theme,"Your hub has been successfully registered","Dein Hub wurde erfolgreich angelegt"
+hub_registration_success_message,maker-vs-virus-theme,"Thanks for your help. Did you already joined our Slack team? We would like to welcome you on our channels.","Danke für deine Mithilfe. Bist du schon im Slack-Team? Falls nein, würden wir uns freuen dich dort begrüßen zu können."
+support_join_slack,maker-vs-virus-theme,"Join Slack",support_join_slack
+login_to_wordpress,maker-vs-virus-theme,login_to_wordpress,login_to_wordpress
+equipment_header,maker-vs-virus-theme,"List of protective equipment",equipment_header
+hub_name,maker-vs-virus-theme,hub_name,hub_name
+hub_name,maker-vs-virus-theme,hub_name,hub_name
+hub_city,maker-vs-virus-theme,City,Stadt
+hub_city,maker-vs-virus-theme,City,Stadt
+hub_state,maker-vs-virus-theme,State,Bundesland
+hub_state,maker-vs-virus-theme,State,Bundesland
+hub_country,maker-vs-virus-theme,Country,Land
+hub_country,maker-vs-virus-theme,Country,Land
+hub_contact_person,maker-vs-virus-theme,"Contact Person",Kontaktperson
+hub_contact_person,maker-vs-virus-theme,"Contact Person",Kontaktperson
+hub_email,maker-vs-virus-theme,E-Mail,E-Mail
+hub_email,maker-vs-virus-theme,E-Mail,E-Mail
+hub_twitter,maker-vs-virus-theme,Twitter,Twitter
+hub_twitter,maker-vs-virus-theme,Twitter,Twitter
+hub_phone,maker-vs-virus-theme,Phone,Telefon
+hub_phone,maker-vs-virus-theme,Phone,Telefon
+hub_address,maker-vs-virus-theme,Address,Anschrift
+hub_address,maker-vs-virus-theme,Address,Anschrift
+hub_offer,maker-vs-virus-theme,"We Offer","Wir bieten"
+hub_offer_details,maker-vs-virus-theme,"Prusa Protective Face Shields, Mundschutz, Easy shields, e.G.","Prusa Protective Face Shields, Mundschutz, Easy shields, usw."
+hub_capacity,maker-vs-virus-theme,Facilities,Kapazitäten
+hub_capacity_details,maker-vs-virus-theme,"Lasercutter, 3D-Printers, CNC, Sewing Machines, e.G.","Lasercutter, 3D-Drucker, CNC-Fräse, Nähmaschine, usw."
+hub_description,maker-vs-virus-theme,"About Us",Kurzbeschreibung
+hub_description,maker-vs-virus-theme,"About Us",Kurzbeschreibung
+hub_for_free,maker-vs-virus-theme,"Free Offers","Kostenloses Angebot"
+hub_for_net_cost,maker-vs-virus-theme,"For net cost","Zum Selbstkostenpreis"
+hub_registration_send,maker-vs-virus-theme,"register your hub","Hub registrieren"
+"Oops! That page can&rsquo;t be found.",twentynineteen,"Oops! That page can&rsquo;t be found.","Oops! That page can&rsquo;t be found."
+"It looks like nothing was found at this location. Maybe try a search?",twentynineteen,"It looks like nothing was found at this location. Maybe try a search?","It looks like nothing was found at this location. Maybe try a search?"
+"%s <span class=""screen-reader-text says"">says:</span>",twentynineteen,"%s <span class=""screen-reader-text says"">says:</span>","%s <span class=""screen-reader-text says"">says:</span>"
+"%1$s at %2$s",twentynineteen,"%1$s at %2$s","%1$s at %2$s"
+Edit,twentynineteen,Edit,Edit
+"Your comment is awaiting moderation.",twentynineteen,"Your comment is awaiting moderation.","Your comment is awaiting moderation."
+"Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved.",twentynineteen,"Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved.","Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved."
+"Join the Conversation",twentynineteen,"Join the Conversation","Join the Conversation"
+"Leave a comment",twentynineteen,"Leave a comment","Leave a comment"
+Comments,twentynineteen,Comments,Comments
+Previous,twentynineteen,Previous,Previous
+Comments,twentynineteen,Comments,Comments
+Next,twentynineteen,Next,Next
+Comments,twentynineteen,Comments,Comments
+"Leave a comment",twentynineteen,"Leave a comment","Leave a comment"
+"Leave a comment",twentynineteen,"Leave a comment","Leave a comment"
+"Comments are closed.",twentynineteen,"Comments are closed.","Comments are closed."
+https://wordpress.org/,twentynineteen,https://wordpress.org/,https://wordpress.org/
+"Proudly powered by %s.",twentynineteen,"Proudly powered by %s.","Proudly powered by %s."
+Primary,twentynineteen,Primary,Primary
+"Footer Menu",twentynineteen,"Footer Menu","Footer Menu"
+"Social Links Menu",twentynineteen,"Social Links Menu","Social Links Menu"
+Small,twentynineteen,Small,Small
+S,twentynineteen,S,S
+Normal,twentynineteen,Normal,Normal
+M,twentynineteen,M,M
+Large,twentynineteen,Large,Large
+L,twentynineteen,L,L
+Huge,twentynineteen,Huge,Huge
+XL,twentynineteen,XL,XL
+Blue,twentynineteen,Blue,Blue
+"Dark Blue",twentynineteen,"Dark Blue","Dark Blue"
+"Dark Gray",twentynineteen,"Dark Gray","Dark Gray"
+"Light Gray",twentynineteen,"Light Gray","Light Gray"
+White,twentynineteen,White,White
+Footer,twentynineteen,Footer,Footer
+"Add widgets here to appear in your footer.",twentynineteen,"Add widgets here to appear in your footer.","Add widgets here to appear in your footer."
+"Skip to content",twentynineteen,"Skip to content","Skip to content"
+Pages:,twentynineteen,Pages:,Pages:
+Page,twentynineteen,Page,Page
+"Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again.",twentynineteen,"Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again.","Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+"Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again.",twentynineteen,"Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again.","Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+"Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again.",twentynineteen,"Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again.","Twenty Nineteen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+"Primary Color",twentynineteen,"Primary Color","Primary Color"
+"Apply a custom color for buttons, links, featured images, etc.",twentynineteen,"Apply a custom color for buttons, links, featured images, etc.","Apply a custom color for buttons, links, featured images, etc."
+"Apply a filter to featured images using the primary color",twentynineteen,"Apply a filter to featured images using the primary color","Apply a filter to featured images using the primary color"
+"Category Archives: ",twentynineteen,"Category Archives: ","Category Archives: "
+"Tag Archives: ",twentynineteen,"Tag Archives: ","Tag Archives: "
+"Author Archives: ",twentynineteen,"Author Archives: ","Author Archives: "
+"Yearly Archives: ",twentynineteen,"Yearly Archives: ","Yearly Archives: "
+"Monthly Archives: ",twentynineteen,"Monthly Archives: ","Monthly Archives: "
+"Daily Archives: ",twentynineteen,"Daily Archives: ","Daily Archives: "
+"Post Type Archives: ",twentynineteen,"Post Type Archives: ","Post Type Archives: "
+Archives:,twentynineteen,Archives:,Archives:
+"%s Archives:",twentynineteen,"%s Archives:","%s Archives:"
+Back,twentynineteen,Back,Back
+"Posted by",twentynineteen,"Posted by","Posted by"
+"Leave a comment<span class=""screen-reader-text""> on %s</span>",twentynineteen,"Leave a comment<span class=""screen-reader-text""> on %s</span>","Leave a comment<span class=""screen-reader-text""> on %s</span>"
+", ",twentynineteen,", ",", "
+"Posted in",twentynineteen,"Posted in","Posted in"
+", ",twentynineteen,", ",", "
+Tags:,twentynineteen,Tags:,Tags:
+"Edit <span class=""screen-reader-text"">%s</span>",twentynineteen,"Edit <span class=""screen-reader-text"">%s</span>","Edit <span class=""screen-reader-text"">%s</span>"
+"Newer posts",twentynineteen,"Newer posts","Newer posts"
+"Older posts",twentynineteen,"Older posts","Older posts"
+"Search results for: ",twentynineteen,"Search results for: ","Search results for: "
+"<span class=""meta-nav"">Published in</span><span class=""post-title"">%s</span>",twentynineteen,"<span class=""meta-nav"">Published in</span><span class=""post-title"">%s</span>","<span class=""meta-nav"">Published in</span><span class=""post-title"">%s</span>"
+"Next Post",twentynineteen,"Next Post","Next Post"
+"Next post:",twentynineteen,"Next post:","Next post:"
+"Previous Post",twentynineteen,"Previous Post","Previous Post"
+"Previous post:",twentynineteen,"Previous post:","Previous post:"
+"Nothing Found",twentynineteen,"Nothing Found","Nothing Found"
+"Ready to publish your first post? <a href=""%1$s"">Get started here</a>.",twentynineteen,"Ready to publish your first post? <a href=""%1$s"">Get started here</a>.","Ready to publish your first post? <a href=""%1$s"">Get started here</a>."
+"Sorry, but nothing matched your search terms. Please try again with some different keywords.",twentynineteen,"Sorry, but nothing matched your search terms. Please try again with some different keywords.","Sorry, but nothing matched your search terms. Please try again with some different keywords."
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.",twentynineteen,"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.","It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+Pages:,twentynineteen,Pages:,Pages:
+"Edit <span class=""screen-reader-text"">%s</span>",twentynineteen,"Edit <span class=""screen-reader-text"">%s</span>","Edit <span class=""screen-reader-text"">%s</span>"
+"Continue reading<span class=""screen-reader-text""> ""%s""</span>",twentynineteen,"Continue reading<span class=""screen-reader-text""> ""%s""</span>","Continue reading<span class=""screen-reader-text""> ""%s""</span>"
+Pages:,twentynineteen,Pages:,Pages:
+"Continue reading<span class=""screen-reader-text""> ""%s""</span>",twentynineteen,"Continue reading<span class=""screen-reader-text""> ""%s""</span>","Continue reading<span class=""screen-reader-text""> ""%s""</span>"
+Pages:,twentynineteen,Pages:,Pages:
+"Edit <span class=""screen-reader-text"">%s</span>",twentynineteen,"Edit <span class=""screen-reader-text"">%s</span>","Edit <span class=""screen-reader-text"">%s</span>"
+"Published by %s",twentynineteen,"Published by %s","Published by %s"
+"View more posts",twentynineteen,"View more posts","View more posts"
+"No comments",twentynineteen,"No comments","No comments"
+"Oops! That page can&rsquo;t be found.",twentyseventeen,"Oops! That page can&rsquo;t be found.","Oops! That page can&rsquo;t be found."
+"It looks like nothing was found at this location. Maybe try a search?",twentyseventeen,"It looks like nothing was found at this location. Maybe try a search?","It looks like nothing was found at this location. Maybe try a search?"
+"Previous page",twentyseventeen,"Previous page","Previous page"
+"Next page",twentyseventeen,"Next page","Next page"
+Page,twentyseventeen,Page,Page
+Reply,twentyseventeen,Reply,Reply
+Previous,twentyseventeen,Previous,Previous
+Next,twentyseventeen,Next,Next
+"Comments are closed.",twentyseventeen,"Comments are closed.","Comments are closed."
+"Top Menu",twentyseventeen,"Top Menu","Top Menu"
+"Social Links Menu",twentyseventeen,"Social Links Menu","Social Links Menu"
+"Top Menu",twentyseventeen,"Top Menu","Top Menu"
+"Social Links Menu",twentyseventeen,"Social Links Menu","Social Links Menu"
+"Blog Sidebar",twentyseventeen,"Blog Sidebar","Blog Sidebar"
+"Add widgets here to appear in your sidebar on blog posts and archive pages.",twentyseventeen,"Add widgets here to appear in your sidebar on blog posts and archive pages.","Add widgets here to appear in your sidebar on blog posts and archive pages."
+"Footer 1",twentyseventeen,"Footer 1","Footer 1"
+"Add widgets here to appear in your footer.",twentyseventeen,"Add widgets here to appear in your footer.","Add widgets here to appear in your footer."
+"Footer 2",twentyseventeen,"Footer 2","Footer 2"
+"Add widgets here to appear in your footer.",twentyseventeen,"Add widgets here to appear in your footer.","Add widgets here to appear in your footer."
+"Continue reading<span class=""screen-reader-text""> ""%s""</span>",twentyseventeen,"Continue reading<span class=""screen-reader-text""> ""%s""</span>","Continue reading<span class=""screen-reader-text""> ""%s""</span>"
+"Expand child menu",twentyseventeen,"Expand child menu","Expand child menu"
+"Collapse child menu",twentyseventeen,"Collapse child menu","Collapse child menu"
+"Skip to content",twentyseventeen,"Skip to content","Skip to content"
+"Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again.",twentyseventeen,"Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again.","Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+"Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again.",twentyseventeen,"Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again.","Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+"Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again.",twentyseventeen,"Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again.","Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+"Default Header Image",twentyseventeen,"Default Header Image","Default Header Image"
+"Play background video",twentyseventeen,"Play background video","Play background video"
+"Pause background video",twentyseventeen,"Pause background video","Pause background video"
+"Color Scheme",twentyseventeen,"Color Scheme","Color Scheme"
+Light,twentyseventeen,Light,Light
+Dark,twentyseventeen,Dark,Dark
+Custom,twentyseventeen,Custom,Custom
+"Theme Options",twentyseventeen,"Theme Options","Theme Options"
+"Page Layout",twentyseventeen,"Page Layout","Page Layout"
+"When the two-column layout is assigned, the page title is in one column and content is in the other.",twentyseventeen,"When the two-column layout is assigned, the page title is in one column and content is in the other.","When the two-column layout is assigned, the page title is in one column and content is in the other."
+"One Column",twentyseventeen,"One Column","One Column"
+"Two Column",twentyseventeen,"Two Column","Two Column"
+"Front Page Section %d Content",twentyseventeen,"Front Page Section %d Content","Front Page Section %d Content"
+"Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed.",twentyseventeen,"Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed.","Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+"One Column",twentyseventeen,"One Column","One Column"
+"Two Column",twentyseventeen,"Two Column","Two Column"
+"Please define default parameters in the form of an array.",twentyseventeen,"Please define default parameters in the form of an array.","Please define default parameters in the form of an array."
+"Please define an SVG icon filename.",twentyseventeen,"Please define an SVG icon filename.","Please define an SVG icon filename."
+"This is the title",twentyseventeen,"This is the title","This is the title"
+"This is the title",twentyseventeen,"This is the title","This is the title"
+"This is the description",twentyseventeen,"This is the description","This is the description"
+"by %s",twentyseventeen,"by %s","by %s"
+"<span class=""screen-reader-text"">Posted on</span> %s",twentyseventeen,"<span class=""screen-reader-text"">Posted on</span> %s","<span class=""screen-reader-text"">Posted on</span> %s"
+", ",twentyseventeen,", ",", "
+Categories,twentyseventeen,Categories,Categories
+Tags,twentyseventeen,Tags,Tags
+"Edit<span class=""screen-reader-text""> ""%s""</span>",twentyseventeen,"Edit<span class=""screen-reader-text""> ""%s""</span>","Edit<span class=""screen-reader-text""> ""%s""</span>"
+"Front Page Section %s Placeholder",twentyseventeen,"Front Page Section %s Placeholder","Front Page Section %s Placeholder"
+Posts,twentyseventeen,Posts,Posts
+"Previous page",twentyseventeen,"Previous page","Previous page"
+"Next page",twentyseventeen,"Next page","Next page"
+Page,twentyseventeen,Page,Page
+"Search Results for: %s",twentyseventeen,"Search Results for: %s","Search Results for: %s"
+"Nothing Found",twentyseventeen,"Nothing Found","Nothing Found"
+"Previous page",twentyseventeen,"Previous page","Previous page"
+"Next page",twentyseventeen,"Next page","Next page"
+Page,twentyseventeen,Page,Page
+"Sorry, but nothing matched your search terms. Please try again with some different keywords.",twentyseventeen,"Sorry, but nothing matched your search terms. Please try again with some different keywords.","Sorry, but nothing matched your search terms. Please try again with some different keywords."
+"Previous Post",twentyseventeen,"Previous Post","Previous Post"
+Previous,twentyseventeen,Previous,Previous
+"Next Post",twentyseventeen,"Next Post","Next Post"
+Next,twentyseventeen,Next,Next
+https://wordpress.org/,twentyseventeen,https://wordpress.org/,https://wordpress.org/
+"Proudly powered by %s",twentyseventeen,"Proudly powered by %s","Proudly powered by %s"
+"Scroll down to content",twentyseventeen,"Scroll down to content","Scroll down to content"
+Menu,twentyseventeen,Menu,Menu
+"Scroll down to content",twentyseventeen,"Scroll down to content","Scroll down to content"
+"Continue reading<span class=""screen-reader-text""> ""%s""</span>",twentyseventeen,"Continue reading<span class=""screen-reader-text""> ""%s""</span>","Continue reading<span class=""screen-reader-text""> ""%s""</span>"
+"Continue reading<span class=""screen-reader-text""> ""%s""</span>",twentyseventeen,"Continue reading<span class=""screen-reader-text""> ""%s""</span>","Continue reading<span class=""screen-reader-text""> ""%s""</span>"
+Pages:,twentyseventeen,Pages:,Pages:
+"Continue reading<span class=""screen-reader-text""> ""%s""</span>",twentyseventeen,"Continue reading<span class=""screen-reader-text""> ""%s""</span>","Continue reading<span class=""screen-reader-text""> ""%s""</span>"
+Pages:,twentyseventeen,Pages:,Pages:
+"Continue reading<span class=""screen-reader-text""> ""%s""</span>",twentyseventeen,"Continue reading<span class=""screen-reader-text""> ""%s""</span>","Continue reading<span class=""screen-reader-text""> ""%s""</span>"
+Pages:,twentyseventeen,Pages:,Pages:
+"Continue reading<span class=""screen-reader-text""> ""%s""</span>",twentyseventeen,"Continue reading<span class=""screen-reader-text""> ""%s""</span>","Continue reading<span class=""screen-reader-text""> ""%s""</span>"
+Pages:,twentyseventeen,Pages:,Pages:
+"Nothing Found",twentyseventeen,"Nothing Found","Nothing Found"
+"Ready to publish your first post? <a href=""%s"">Get started here</a>.",twentyseventeen,"Ready to publish your first post? <a href=""%s"">Get started here</a>.","Ready to publish your first post? <a href=""%s"">Get started here</a>."
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.",twentyseventeen,"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.","It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+"Continue reading<span class=""screen-reader-text""> ""%s""</span>",twentyseventeen,"Continue reading<span class=""screen-reader-text""> ""%s""</span>","Continue reading<span class=""screen-reader-text""> ""%s""</span>"
+Pages:,twentyseventeen,Pages:,Pages:
+"Continue reading<span class=""screen-reader-text""> ""%s""</span>",twentyseventeen,"Continue reading<span class=""screen-reader-text""> ""%s""</span>","Continue reading<span class=""screen-reader-text""> ""%s""</span>"
+Pages:,twentyseventeen,Pages:,Pages:
+"Oops! That page can&rsquo;t be found.",twentysixteen,"Oops! That page can&rsquo;t be found.","Oops! That page can&rsquo;t be found."
+"It looks like nothing was found at this location. Maybe try a search?",twentysixteen,"It looks like nothing was found at this location. Maybe try a search?","It looks like nothing was found at this location. Maybe try a search?"
+"Previous page",twentysixteen,"Previous page","Previous page"
+"Next page",twentysixteen,"Next page","Next page"
+Page,twentysixteen,Page,Page
+"Comments are closed.",twentysixteen,"Comments are closed.","Comments are closed."
+https://wordpress.org/,twentysixteen,https://wordpress.org/,https://wordpress.org/
+"Proudly powered by %s",twentysixteen,"Proudly powered by %s","Proudly powered by %s"
+"Primary Menu",twentysixteen,"Primary Menu","Primary Menu"
+"Social Links Menu",twentysixteen,"Social Links Menu","Social Links Menu"
+"Dark Gray",twentysixteen,"Dark Gray","Dark Gray"
+"Medium Gray",twentysixteen,"Medium Gray","Medium Gray"
+"Light Gray",twentysixteen,"Light Gray","Light Gray"
+White,twentysixteen,White,White
+"Blue Gray",twentysixteen,"Blue Gray","Blue Gray"
+"Bright Blue",twentysixteen,"Bright Blue","Bright Blue"
+"Light Blue",twentysixteen,"Light Blue","Light Blue"
+"Dark Brown",twentysixteen,"Dark Brown","Dark Brown"
+"Medium Brown",twentysixteen,"Medium Brown","Medium Brown"
+"Dark Red",twentysixteen,"Dark Red","Dark Red"
+"Bright Red",twentysixteen,"Bright Red","Bright Red"
+Yellow,twentysixteen,Yellow,Yellow
+Sidebar,twentysixteen,Sidebar,Sidebar
+"Add widgets here to appear in your sidebar.",twentysixteen,"Add widgets here to appear in your sidebar.","Add widgets here to appear in your sidebar."
+"Content Bottom 1",twentysixteen,"Content Bottom 1","Content Bottom 1"
+"Appears at the bottom of the content on posts and pages.",twentysixteen,"Appears at the bottom of the content on posts and pages.","Appears at the bottom of the content on posts and pages."
+"Content Bottom 2",twentysixteen,"Content Bottom 2","Content Bottom 2"
+"Appears at the bottom of the content on posts and pages.",twentysixteen,"Appears at the bottom of the content on posts and pages.","Appears at the bottom of the content on posts and pages."
+"expand child menu",twentysixteen,"expand child menu","expand child menu"
+"collapse child menu",twentysixteen,"collapse child menu","collapse child menu"
+"Skip to content",twentysixteen,"Skip to content","Skip to content"
+Menu,twentysixteen,Menu,Menu
+"Previous Image",twentysixteen,"Previous Image","Previous Image"
+"Next Image",twentysixteen,"Next Image","Next Image"
+Pages:,twentysixteen,Pages:,Pages:
+Page,twentysixteen,Page,Page
+"Edit<span class=""screen-reader-text""> ""%s""</span>",twentysixteen,"Edit<span class=""screen-reader-text""> ""%s""</span>","Edit<span class=""screen-reader-text""> ""%s""</span>"
+"Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again.",twentysixteen,"Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again.","Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+"Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again.",twentysixteen,"Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again.","Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+"Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again.",twentysixteen,"Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again.","Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+"Base Color Scheme",twentysixteen,"Base Color Scheme","Base Color Scheme"
+"Page Background Color",twentysixteen,"Page Background Color","Page Background Color"
+"Link Color",twentysixteen,"Link Color","Link Color"
+"Main Text Color",twentysixteen,"Main Text Color","Main Text Color"
+"Secondary Text Color",twentysixteen,"Secondary Text Color","Secondary Text Color"
+Default,twentysixteen,Default,Default
+Dark,twentysixteen,Dark,Dark
+Gray,twentysixteen,Gray,Gray
+Red,twentysixteen,Red,Red
+Yellow,twentysixteen,Yellow,Yellow
+"Leave a comment<span class=""screen-reader-text""> on %s</span>",twentysixteen,"Leave a comment<span class=""screen-reader-text""> on %s</span>","Leave a comment<span class=""screen-reader-text""> on %s</span>"
+"Continue reading<span class=""screen-reader-text""> ""%s""</span>",twentysixteen,"Continue reading<span class=""screen-reader-text""> ""%s""</span>","Continue reading<span class=""screen-reader-text""> ""%s""</span>"
+"Previous page",twentysixteen,"Previous page","Previous page"
+"Next page",twentysixteen,"Next page","Next page"
+Page,twentysixteen,Page,Page
+"Search Results for: %s",twentysixteen,"Search Results for: %s","Search Results for: %s"
+"Previous page",twentysixteen,"Previous page","Previous page"
+"Next page",twentysixteen,"Next page","Next page"
+Page,twentysixteen,Page,Page
+Next,twentysixteen,Next,Next
+"Next post:",twentysixteen,"Next post:","Next post:"
+Previous,twentysixteen,Previous,Previous
+"Previous post:",twentysixteen,"Previous post:","Previous post:"
+Author:,twentysixteen,Author:,Author:
+"View all posts by %s",twentysixteen,"View all posts by %s","View all posts by %s"
+"Nothing Found",twentysixteen,"Nothing Found","Nothing Found"
+"Ready to publish your first post? <a href=""%1$s"">Get started here</a>.",twentysixteen,"Ready to publish your first post? <a href=""%1$s"">Get started here</a>.","Ready to publish your first post? <a href=""%1$s"">Get started here</a>."
+"Sorry, but nothing matched your search terms. Please try again with some different keywords.",twentysixteen,"Sorry, but nothing matched your search terms. Please try again with some different keywords.","Sorry, but nothing matched your search terms. Please try again with some different keywords."
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.",twentysixteen,"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.","It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+Pages:,twentysixteen,Pages:,Pages:
+Page,twentysixteen,Page,Page
+"Edit<span class=""screen-reader-text""> ""%s""</span>",twentysixteen,"Edit<span class=""screen-reader-text""> ""%s""</span>","Edit<span class=""screen-reader-text""> ""%s""</span>"
+"Edit<span class=""screen-reader-text""> ""%s""</span>",twentysixteen,"Edit<span class=""screen-reader-text""> ""%s""</span>","Edit<span class=""screen-reader-text""> ""%s""</span>"
+"Edit<span class=""screen-reader-text""> ""%s""</span>",twentysixteen,"Edit<span class=""screen-reader-text""> ""%s""</span>","Edit<span class=""screen-reader-text""> ""%s""</span>"
+Pages:,twentysixteen,Pages:,Pages:
+Page,twentysixteen,Page,Page
+"Edit<span class=""screen-reader-text""> ""%s""</span>",twentysixteen,"Edit<span class=""screen-reader-text""> ""%s""</span>","Edit<span class=""screen-reader-text""> ""%s""</span>"
+Featured,twentysixteen,Featured,Featured
+"Continue reading<span class=""screen-reader-text""> ""%s""</span>",twentysixteen,"Continue reading<span class=""screen-reader-text""> ""%s""</span>","Continue reading<span class=""screen-reader-text""> ""%s""</span>"
+Pages:,twentysixteen,Pages:,Pages:
+Page,twentysixteen,Page,Page
+"Edit<span class=""screen-reader-text""> ""%s""</span>",twentysixteen,"Edit<span class=""screen-reader-text""> ""%s""</span>","Edit<span class=""screen-reader-text""> ""%s""</span>"
+"Page Not Found",twentytwenty,"Page Not Found","Page Not Found"
+"The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place.",twentytwenty,"The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place.","The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place."
+"404 not found",twentytwenty,"404 not found","404 not found"
+"Retina logo",twentytwenty,"Retina logo","Retina logo"
+"Scales the logo to half its uploaded size, making it sharp on high-res screens.",twentytwenty,"Scales the logo to half its uploaded size, making it sharp on high-res screens.","Scales the logo to half its uploaded size, making it sharp on high-res screens."
+"Header &amp; Footer Background Color",twentytwenty,"Header &amp; Footer Background Color","Header &amp; Footer Background Color"
+"Primary Color",twentytwenty,"Primary Color","Primary Color"
+Default,twentytwenty,Default,Default
+Custom,twentytwenty,Custom,Custom
+"Apply a custom color for links, buttons, featured images.",twentytwenty,"Apply a custom color for links, buttons, featured images.","Apply a custom color for links, buttons, featured images."
+"Theme Options",twentytwenty,"Theme Options","Theme Options"
+"Show search in header",twentytwenty,"Show search in header","Show search in header"
+"Show author bio",twentytwenty,"Show author bio","Show author bio"
+"On archive pages, posts show:",twentytwenty,"On archive pages, posts show:","On archive pages, posts show:"
+"Full text",twentytwenty,"Full text","Full text"
+Summary,twentytwenty,Summary,Summary
+"Cover Template",twentytwenty,"Cover Template","Cover Template"
+"Settings for the ""Cover Template"" page template. Add a featured image to use as background.",twentytwenty,"Settings for the ""Cover Template"" page template. Add a featured image to use as background.","Settings for the ""Cover Template"" page template. Add a featured image to use as background."
+"Fixed Background Image",twentytwenty,"Fixed Background Image","Fixed Background Image"
+"Creates a parallax effect when the visitor scrolls.",twentytwenty,"Creates a parallax effect when the visitor scrolls.","Creates a parallax effect when the visitor scrolls."
+"Overlay Background Color",twentytwenty,"Overlay Background Color","Overlay Background Color"
+"The color used for the overlay. Defaults to the accent color.",twentytwenty,"The color used for the overlay. Defaults to the accent color.","The color used for the overlay. Defaults to the accent color."
+"Overlay Text Color",twentytwenty,"Overlay Text Color","Overlay Text Color"
+"The color used for the text in the overlay.",twentytwenty,"The color used for the text in the overlay.","The color used for the text in the overlay."
+"Overlay Opacity",twentytwenty,"Overlay Opacity","Overlay Opacity"
+"Make sure that the contrast is high enough so that the text is readable.",twentytwenty,"Make sure that the contrast is high enough so that the text is readable.","Make sure that the contrast is high enough so that the text is readable."
+says:,twentytwenty,says:,says:
+"%1$s at %2$s",twentytwenty,"%1$s at %2$s","%1$s at %2$s"
+Edit,twentytwenty,Edit,Edit
+"Your comment is awaiting moderation.",twentytwenty,"Your comment is awaiting moderation.","Your comment is awaiting moderation."
+"By Post Author",twentytwenty,"By Post Author","By Post Author"
+"#%d (no title)",twentytwenty,"#%d (no title)","#%d (no title)"
+"Show sub menu",twentytwenty,"Show sub menu","Show sub menu"
+"Leave a comment",twentytwenty,"Leave a comment","Leave a comment"
+"Newer Comments",twentytwenty,"Newer Comments","Newer Comments"
+"Older Comments",twentytwenty,"Older Comments","Older Comments"
+"Comments are closed.",twentytwenty,"Comments are closed.","Comments are closed."
+https://wordpress.org/,twentytwenty,https://wordpress.org/,https://wordpress.org/
+"Powered by WordPress",twentytwenty,"Powered by WordPress","Powered by WordPress"
+"To the top %s",twentytwenty,"To the top %s","To the top %s"
+"Up %s",twentytwenty,"Up %s","Up %s"
+"Desktop Horizontal Menu",twentytwenty,"Desktop Horizontal Menu","Desktop Horizontal Menu"
+"Desktop Expanded Menu",twentytwenty,"Desktop Expanded Menu","Desktop Expanded Menu"
+"Mobile Menu",twentytwenty,"Mobile Menu","Mobile Menu"
+"Footer Menu",twentytwenty,"Footer Menu","Footer Menu"
+"Social Menu",twentytwenty,"Social Menu","Social Menu"
+"Skip to the content",twentytwenty,"Skip to the content","Skip to the content"
+"Footer #1",twentytwenty,"Footer #1","Footer #1"
+"Widgets in this area will be displayed in the first column in the footer.",twentytwenty,"Widgets in this area will be displayed in the first column in the footer.","Widgets in this area will be displayed in the first column in the footer."
+"Footer #2",twentytwenty,"Footer #2","Footer #2"
+"Widgets in this area will be displayed in the second column in the footer.",twentytwenty,"Widgets in this area will be displayed in the second column in the footer.","Widgets in this area will be displayed in the second column in the footer."
+"Accent Color",twentytwenty,"Accent Color","Accent Color"
+Primary,twentytwenty,Primary,Primary
+Secondary,twentytwenty,Secondary,Secondary
+"Subtle Background",twentytwenty,"Subtle Background","Subtle Background"
+"Background Color",twentytwenty,"Background Color","Background Color"
+Search,twentytwenty,Search,Search
+Menu,twentytwenty,Menu,Menu
+Menu,twentytwenty,Menu,Menu
+Search,twentytwenty,Search,Search
+"The New UMoMA Opens its Doors",twentytwenty,"The New UMoMA Opens its Doors","The New UMoMA Opens its Doors"
+"The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months.",twentytwenty,"The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months.","The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+"Works and Days",twentytwenty,"Works and Days","Works and Days"
+"August 1 -- December 1",twentytwenty,"August 1 -- December 1","August 1 -- December 1"
+"Read More",twentytwenty,"Read More","Read More"
+"Theatre of Operations",twentytwenty,"Theatre of Operations","Theatre of Operations"
+"October 1 -- December 1",twentytwenty,"October 1 -- December 1","October 1 -- December 1"
+"Read More",twentytwenty,"Read More","Read More"
+"The Life I Deserve",twentytwenty,"The Life I Deserve","The Life I Deserve"
+"August 1 -- December 1",twentytwenty,"August 1 -- December 1","August 1 -- December 1"
+"Read More",twentytwenty,"Read More","Read More"
+"From Signac to Matisse",twentytwenty,"From Signac to Matisse","From Signac to Matisse"
+"October 1 -- December 1",twentytwenty,"October 1 -- December 1","October 1 -- December 1"
+"Read More",twentytwenty,"Read More","Read More"
+"”Cyborgs, as the philosopher Donna Haraway established, are not reverent. They do not remember the cosmos.”",twentytwenty,"”Cyborgs, as the philosopher Donna Haraway established, are not reverent. They do not remember the cosmos.”","”Cyborgs, as the philosopher Donna Haraway established, are not reverent. They do not remember the cosmos.”"
+"With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission",twentytwenty,"With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission","With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission"
+"The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize.",twentytwenty,"The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize.","The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize."
+"Become a Member and Get Exclusive Offers!",twentytwenty,"Become a Member and Get Exclusive Offers!","Become a Member and Get Exclusive Offers!"
+"Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually.",twentytwenty,"Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually.","Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually."
+"Join the Club",twentytwenty,"Join the Club","Join the Club"
+Primary,twentytwenty,Primary,Primary
+Primary,twentytwenty,Primary,Primary
+"Social Links Menu",twentytwenty,"Social Links Menu","Social Links Menu"
+"Edit <span class=""screen-reader-text"">%s</span>",twentytwenty,"Edit <span class=""screen-reader-text"">%s</span>","Edit <span class=""screen-reader-text"">%s</span>"
+"Post author",twentytwenty,"Post author","Post author"
+"By %s",twentytwenty,"By %s","By %s"
+"Post date",twentytwenty,"Post date","Post date"
+Categories,twentytwenty,Categories,Categories
+Tags,twentytwenty,Tags,Tags
+"Sticky post",twentytwenty,"Sticky post","Sticky post"
+"Show sub menu",twentytwenty,"Show sub menu","Show sub menu"
+Search:,twentytwenty,Search:,Search:
+"We could not find any results for your search. You can give it another try through the search form below.",twentytwenty,"We could not find any results for your search. You can give it another try through the search form below.","We could not find any results for your search. You can give it another try through the search form below."
+"search again",twentytwenty,"search again","search again"
+"Search for:",twentytwenty,"Search for:","Search for:"
+Categories,twentytwenty,Categories,Categories
+"Scroll Down",twentytwenty,"Scroll Down","Scroll Down"
+Pages:,twentytwenty,Pages:,Pages:
+"Continue reading",twentytwenty,"Continue reading","Continue reading"
+Pages:,twentytwenty,Pages:,Pages:
+"By %s",twentytwenty,"By %s","By %s"
+"View Archive <span aria-hidden=""true"">&rarr;</span>",twentytwenty,"View Archive <span aria-hidden=""true"">&rarr;</span>","View Archive <span aria-hidden=""true"">&rarr;</span>"
+Categories,twentytwenty,Categories,Categories
+"Close Menu",twentytwenty,"Close Menu","Close Menu"
+"Search for:",twentytwenty,"Search for:","Search for:"
+"Close search",twentytwenty,"Close search","Close search"
+"Newer <span class=""nav-short"">Posts</span>",twentytwenty,"Newer <span class=""nav-short"">Posts</span>","Newer <span class=""nav-short"">Posts</span>"
+"Older <span class=""nav-short"">Posts</span>",twentytwenty,"Older <span class=""nav-short"">Posts</span>","Older <span class=""nav-short"">Posts</span>"
